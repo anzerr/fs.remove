@@ -11,9 +11,11 @@
 	"license": "ISC",
 	"devDependencies": {
 		"eslint": "^5.10.0",
-		"eslint-config-basic": "git+ssh://git@github.com/anzerr/eslintrc.git",
-		"fs.promisify": "git+ssh://git@github.com:anzerr/fs.promisify.git"
+		"eslint-config-basic": "git+ssh://git@github.com/anzerr/eslintrc.git"
 	},
+	"dependencies": {
+		"fs.promisify": "git+ssh://git@github.com:anzerr/fs.promisify.git"
+	}
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	}
