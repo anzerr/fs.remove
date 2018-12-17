@@ -15,7 +15,7 @@
 	},
 	"dependencies": {
 		"fs.promisify": "git+ssh://git@github.com:anzerr/fs.promisify.git"
-	}
+	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	}
