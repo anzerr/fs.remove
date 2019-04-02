@@ -4,7 +4,7 @@ perform a "rm -Rf" on a directory/file using the core node libary
 
 #### `Install`
 ``` bash
-npm install --save git+http://git@github.com/anzerr/fs.remove.git
+npm install --save git+https://git@github.com/anzerr/fs.remove.git
 ```
 
 ### `Example`
