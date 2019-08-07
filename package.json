@@ -1,6 +1,6 @@
 {
 	"name": "fs.remove",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"keywords": [],
 	"homepage": "https://github.com/anzerr/fs.remove#readme",
 	"bugs": {
@@ -24,7 +24,6 @@
 		"fs.promisify": "git+https://git@github.com/anzerr/fs.promisify.git"
 	},
 	"devDependencies": {
-		"eslint": "5.11.1",
 		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
 	},
 	"engines": {
