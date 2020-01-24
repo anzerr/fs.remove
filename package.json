@@ -1,6 +1,6 @@
 {
 	"name": "fs.remove",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "Remove directory/file",
 	"keywords": [
 		"fs",
