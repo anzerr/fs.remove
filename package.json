@@ -1,7 +1,13 @@
 {
 	"name": "fs.remove",
 	"version": "1.0.8",
-	"keywords": [],
+	"description": "Remove directory/file",
+	"keywords": [
+		"fs",
+		"nodejs",
+		"remove",
+		"util"
+	],
 	"homepage": "https://github.com/anzerr/fs.remove#readme",
 	"bugs": {
 		"url": "https://github.com/anzerr/fs.remove/issues"
